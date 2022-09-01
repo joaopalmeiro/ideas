@@ -2,9 +2,9 @@
 
 Ideas for future (pet) projects. Based on EGOIST's [ideas](https://github.com/egoist/ideas) repo.
 
-|        Status        | Idea                                                        | Implementation |
-| :------------------: | ----------------------------------------------------------- | -------------- |
-| :white_large_square: | CLI to get terminal emulator metadata (name, version, etc.) |                |
+|        Status        | Idea                                                         | Implementation |
+| :------------------: | :----------------------------------------------------------- | -------------- |
+| :white_large_square: | CLI to get terminal emulator metadata (name, version, etc.). |                |
 
 ## Notes
 
